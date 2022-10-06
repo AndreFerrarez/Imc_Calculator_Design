@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">dados_entre_activities</string>
+    <string name="title_activity_mostrar_msg">Mostrar_Msg</string>
+
+    <string name="sign_in">Login</string>
+    <string name="Name">Name</string>
+
+    <string name="LastName">last Name</string>
+    <string name="nameAct1">Nome</string>
+    <string name="EmailAct1">Email</string>
+    <string name="LastNameAct1">Last Name</string>
+    <string name="EmailInput">Email</string>
+
+// usar " \n " na mesma linha, para quebrar a linha
+    <string name="Titulo">Indice de massa corporal(IMC).\nUma medida da gordura corporal em adultos.</string>
+
+</resources>
